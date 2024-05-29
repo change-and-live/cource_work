@@ -1,0 +1,122 @@
+{
+  "Can you check if your microphone is on, please?": {
+    "ru": "Пожалуйста, проверьте, что микрофон включен",
+    "en": "Can you check if your microphone is on, please?"
+  },
+  "What did you say again?": {
+    "ru": "Пожалуйста, повторите",
+    "en": "What did you say again?"
+  },
+  "Seems like we have a trouble. See logs for more information": {
+    "ru": "Что-то пошло не так. Посмотри логи (файлик json)",
+    "en": "Seems like we have a trouble. See logs for more information"
+  },
+  "Hello, {}! How can I help you today?": {
+    "ru": "Привет, {}! Чем могу помочь?",
+    "en": "Hello, {}! How can I help you today?"
+  },
+  "Good day to you {}! How can I help you today?": {
+    "ru": "Здравствуй, {}! Какой план на сегодня?",
+    "en": "Good day to you {}! How can I help you today?"
+  },
+  "Goodbye, {}! Have a nice day!": {
+    "ru": "До связи, {}! Хорошего тебе дня!",
+    "en": "Goodbye, {}! Have a nice day!"
+  },
+  "See you soon, {}!": {
+    "ru": "До скорого, {}!",
+    "en": "See you soon, {}!"
+  },
+  "Here is what I found for on google": {
+    "ru": "Вот, что мне удалось найти по запросу в Гугл",
+    "en": "Here is what I found for on google"
+  },
+  "Here is what I found for on youtube": {
+    "ru": "Вот, что мне удалось найти по запросу на Ютьюб",
+    "en": "Here is what I found for on youtube"
+  },
+    "Here is the weather for your request": {
+    "ru": "Вот погода по вашему запросу",
+    "en": "Here is the weather for your request"
+  },
+  "Here is what I found for {} on Wikipedia": {
+    "ru": "Вот, что мне удалось найти по запросу {} в Википедии",
+    "en": "Here is what I found for {} on Wikipedia"
+  },
+  "Can't find {} on Wikipedia. But here is what I found on google": {
+    "ru": "Не могу найти в Википедии ничего по запросу {}. Но вот, что мне удалось найти в Гугл",
+    "en": "Can't find {} on Wikipedia. But here is what I found on google"
+  },
+  "Here is what I found for {} on social nets": {
+    "ru": "Вот, что мне удалось найти по запросу {} в социальных сетях",
+    "en": "Here is what I found for {} on social nets"
+  },
+    "Here's a translation of your phrase": {
+    "ru": "Вот перевод вашей фразы",
+    "en": "Here's a translation of your phrase"
+  },
+  "won": {
+    "ru": "",
+    "en": "won"
+  },
+  "Tails": {
+    "ru": "Решка",
+    "en": "Tail"
+  },
+  "Heads": {
+    "ru": "Орёл",
+    "en": "Head"
+  },
+  "Can you repeat, please?": {
+    "ru": "Можешь повторить?",
+    "en": "Can you repeat, please?"
+  },
+    "First meeting": {
+    "ru": "Вас приветствует голосовой ассистент. Мое имя Мария. Я еще многого не умею, но постараюсь сделать всё возможное! Чем могу помочь?",
+    "en": "This is your voice assistant. My name is Maria. I don't know much yet, but I will do my best! What can I do for you?"
+  },
+  "Ignorance": {
+    "ru": "Простите, не могли бы вы перефразировать запрос! Я еще не могу вам с этим помочь (.",
+    "en": "I'm sorry, could you please reword the request! I can't help you with it yet (."
+  },
+    "Total hype": {
+    "ru": "Полный хайп",
+    "en": "Total hype"
+  },
+  "": {
+    "ru": "",
+    "en": " "
+  },
+    "": {
+    "ru": "",
+    "en": " "
+  },
+  "": {
+    "ru": "",
+    "en": " "
+  },
+    "": {
+    "ru": "",
+    "en": " "
+  },
+  "": {
+    "ru": "",
+    "en": " "
+  },
+    "": {
+    "ru": "",
+    "en": " "
+  },
+  "": {
+    "ru": "",
+    "en": " "
+  },
+    "": {
+    "ru": "",
+    "en": " "
+  },
+  "": {
+    "ru": "",
+    "en": " "
+  }
+}
